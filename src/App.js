@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <link rel="mainifest" href="./mainifest.webmainifest" />
       </header>
     </div>
   );
